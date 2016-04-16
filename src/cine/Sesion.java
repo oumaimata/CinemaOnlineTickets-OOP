@@ -1,18 +1,6 @@
 package cine;
 
 
-import anotacion.Programacion2; 
-
-@Programacion2 (
-	nombreAutor1 = "oumaima",
-	apellidoAutor1 = "talouka",
-	emailUPMAutor1 = "oumaima.talouka@alumnos.upm.es",
-	enGrupo = false,
-	nombreAutor2 = "",
-	apellidoAutor2 = "", 
-	emailUPMAutor2 = ""
-)
-
 public class Sesion {
 	
 	//atributos
